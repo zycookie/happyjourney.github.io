@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/zycookie/HappyJourney.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Welcome to this happy journey. Enjoy!
+### 20201022 目标没定，每天反思总结，自己发展。
+wiki页面制作：起了这个念头，并准备将其作为一件严肃的事情长期每天跟进。（内容：物理与电影）
+攀岩：下周一开始。理由：这是这一切开始的源泉。纪念与思念并存。
+吉他：治愈的伙伴。
 
 ```markdown
 Syntax highlighted code block
@@ -34,4 +30,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with life? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
