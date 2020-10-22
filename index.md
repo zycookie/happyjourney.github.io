@@ -4,9 +4,6 @@ wiki页面制作：起了这个念头，并准备将其作为一件严肃的事�
 
 
 
-```markdown
-Syntax highlighted code block
-
 # wiki页面制作
 ### 准备将其作为一件严肃的事情长期每天跟进。（内容：物理与电影）
 # 攀岩
@@ -14,11 +11,8 @@ Syntax highlighted code block
 # 吉他
 ### 治愈的伙伴
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
